@@ -7,7 +7,7 @@ const greeter = (myArray, counter) => {
   
   greeter(['Randy Savage', 'Ric Flair', 'Hulk Hogan']);
   
-
+//2nd way of solving it
   const greeter1 = (myArray, counter) => {
     const greetText = 'Hello ';
     let currentCount = 0; // To keep track of how many names we've greeted
