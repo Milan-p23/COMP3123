@@ -1,3 +1,4 @@
+//
 function angle_Type(angle) {
     if (angle > 0 && angle < 90) {
         return 'Acute angle';
