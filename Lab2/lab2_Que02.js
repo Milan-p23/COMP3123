@@ -4,4 +4,6 @@ const capitalize = (word) => {
   }
   
   console.log(capitalize("MIlan")); 
+  console.log(capitalize("fooBar")); 
+  console.log(capitalize("nodeJs")); 
   
